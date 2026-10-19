@@ -1,0 +1,11 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
+.env.local
+dist/
+build/
+*.log
